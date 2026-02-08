@@ -1,7 +1,7 @@
 ---
 title: "Lab 0: Getting Started with dplyr"
 subtitle: "Your First Data Analysis"
-author: "Your Name Here"
+author: "umair bin saad"
 date: today
 format: 
   html:
@@ -16,7 +16,7 @@ execute:
 
 # Overview
 
-Welcome 224444444422to your first lab! In this (not graded) assignment, you'll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:
+Welcome to your first lab! In this (not graded) assignment, you'll practice the fundamental dplyr operations I overviewed in class using car sales data. This lab will help you get comfortable with:
 
 - Basic data exploration
 - Column selection and manipulation  
@@ -61,10 +61,10 @@ head(car_data)
 - Are there any column names that might cause problems? Why?
 
 **Your answers:**
-- Rows: [YOUR ANSWER]
-- Columns: [YOUR ANSWER]  
-- Variable types: [YOUR ANSWER]
-- Problematic names: [YOUR ANSWER]
+- Rows: [50000]
+- Columns: [7]  
+- Variable types: [7]
+- Problematic names: [8]
 
 ## 1.2 Tibble vs Data Frame
 
